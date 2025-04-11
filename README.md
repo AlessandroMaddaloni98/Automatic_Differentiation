@@ -9,7 +9,7 @@ This notebook provides a simple and practical explanation of **Automatic Differe
 - Comparison with symbolic and numerical differentiation
 
 ## File
-- `Automatic Differentiation.ipynb` — the full explanation and code
+- `Automatic_Differentiation.ipynb` — the full explanation and code
 
 ## Run it locally
 To run the notebook, make sure you have:
